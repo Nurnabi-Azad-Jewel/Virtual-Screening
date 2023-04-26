@@ -1,5 +1,5 @@
 # Virtual-Screening-in-Windows
-In Windows PowerShell: Run the program by following command:
+In Windows PowerShell: Run the program by following command:\n
 ./Splitting_DrugBank_SDF_File.exe [Options]
 or 
 ./Splitting_DrugBank_SDF_File [Options]
