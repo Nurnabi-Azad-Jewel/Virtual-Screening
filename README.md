@@ -15,3 +15,5 @@ In Cygwin Terminal: Run the program by following command:
 or 
 
 ./Splitting_DrugBank_SDF_File [Options]
+
+# Splitting
