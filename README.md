@@ -3,8 +3,10 @@ In Windows PowerShell: Run the program by following command:
 
 ./Splitting_DrugBank_SDF_File.exe [Options]
 
-or 
+or
 
+.\Splitting_DrugBank_SDF_File.exe
+or
 ./Splitting_DrugBank_SDF_File [Options]
 
 
